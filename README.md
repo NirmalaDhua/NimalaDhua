@@ -1,7 +1,7 @@
 
 # 💻 Welcome to My GitHub Profile! 📊
 
-Hello! I'm [Nirmala] 🙋‍♂️, a budding **Data Enthusiast** with a passion for turning data into actionable insights. I'm at the start of my data journey, but I’m eager to grow, learn, and collaborate with the data community. 🚀
+Hello! I'm Nirmala 🙋‍♂️, a budding **Data Enthusiast** with a passion for turning data into actionable insights. I'm at the start of my data journey, but I’m eager to grow, learn, and collaborate with the data community. 🚀
 
 ---
 
