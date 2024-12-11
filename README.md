@@ -1,8 +1,7 @@
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
 
 
-<b>Hi, My name is Nirmala. I am a data professional.<b>
-<# Aspiring Data Analyst Portfolio
+<b>Hi, My name is Nirmala.<b>
 
 I’m an aspiring Data Analyst passionate about exploring data and uncovering meaningful insights. Currently, I’m honing my skills in data analytics and visualization using industry-standard tools and technologies. 
 
