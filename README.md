@@ -108,7 +108,7 @@
 <a href="mailto: ">
 
 
-<img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
+<img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=nirmala.lalan@gmail&logoColor=red" />
 
 
 </a>
